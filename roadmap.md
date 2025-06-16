@@ -30,7 +30,7 @@ Step 5: APIs
     - clean code principles: DRY, SRP etc.
     - Avoiding God classes
 
-Step 6:Common LLD Problems
+Step 6: Common LLD Problems
     - 1. Design a Tic-tac-toe or chess game
     - 2. Design s Splitwise App
     - 3. Design a Parking lot
