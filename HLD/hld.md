@@ -1,6 +1,5 @@
 - Horizontal Scalling
 - Vertical Scalling
-
 - DNS
 - DNS Resolution
 - 
@@ -8,9 +7,14 @@
 - API Gateway
 - Rate Limiter
 - Load Balancer
-    - Application Load Balancer
-    - Network Load Balancer
+
+  - Application Load Balancer
+  - Network Load Balancer
 - Round Robin Algorithm
 - Serverless
 - Fan-out Architecture
 - 
+
+---
+
+* Monolith vs microservices
