@@ -7,8 +7,7 @@
   2. **Factory Design Pattern**
   3. **Singleton Design Pattern**
   4. **Observer Design Pattern**
-  5. Decorator Design Pattern
+  5. **Decorator Design Pattern**
 * **Projects**
   1. **Google Doc**
   2. **Tomato**
-  3.
